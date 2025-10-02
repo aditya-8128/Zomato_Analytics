@@ -1,0 +1,6 @@
+# Ignore large data files and archives
+*.csv
+*.zip
+
+# Ignore system files
+.DS_Store
